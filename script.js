@@ -1,4 +1,4 @@
-<script>
+
     // ১. পাসওয়ার্ড আপডেট (মাস্টার পাসওয়ার্ড: AbdulFreeFire42)
     const MASTER_ADMIN_PASS = "AbdulFreeFire42";
     let winStreak = 0;
@@ -222,4 +222,3 @@
             alert('Telegram Link Updated Successfully!');
         }
     }
-</script>
